@@ -33,10 +33,6 @@
         },
         "DATABASE_URL":{
             "description": "Database URL from https://cloud.mongodb.com/",
-            "value": """
-        },
-        "DATABASE_URL":{
-            "description": "Database URL from https://cloud.mongodb.com/",
             "value": ""
         },
         "IS_PUBLIC":{

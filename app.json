@@ -8,7 +8,7 @@
         "bot",
         "inline"
     ],
-    "repository": "https://github.com/CodeXBotz/Inline-Filter-Bot",
+    "repository": "https://github.com/MRK-YT/MT-Inline-Filter-Bot",
     "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
     "env": {
         "TG_BOT_TOKEN": {
@@ -16,15 +16,24 @@
             "value": ""
         },
         "OWNER_ID": {
-            "description": "An integer of consisting of your owner ID",
-            "value": "1250450587"
+            "description": "An integer of consisting of your owner ID @MT_ID_Bot",
+            "value": "1234567890"
         },
         "APP_ID":{
-            "description": "your app id, take it from my.telegram.org",
+            "description": "your app id, take it from my.telegram.org or MT_MyTelegramOrg_Bot",
+            "value": ""
+        },
+        "API_HASH":{
+            "description": "your api hash, take it from my.telegram.org  or MT_MyTelegramOrg_Bot",
             "value": ""
         },
         "API_HASH":{
             "description": "your api hash, take it from my.telegram.org",
+            "value": ""
+        },
+        "DATABASE_URL":{
+            "description": "Database URL from https://cloud.mongodb.com/",
+            "value": """,
             "value": ""
         },
         "DATABASE_URL":{

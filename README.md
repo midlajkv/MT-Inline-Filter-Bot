@@ -4,21 +4,12 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
-  </a><br>
-  <a href="https://t.me/CodeXBotz">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+
+  <a href="https://github.com/MRK-YT/MT-Inline-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/MRK-YT/MT-Inline-Filter-Bot?style=social">
   </a>
-  <a href="https://t.me/codexbotzsupport">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <br>
-  <a href="https://github.com/CodeXBotz/Inline-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/Inline-Filter-Bot?style=social">
-  </a>
-  <a href="https://github.com/CodeXBotz/Inline-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/Inline-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/MRK-YT/MT-Inline-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Inline-Filter-Bot?label=Fork&style=social">
   </a>  
 </p>
 
@@ -34,7 +25,7 @@ A Telegram Bot for filter in Inline
 - Custom Start Message, filter adding-deleting command
 
 ## DEMO BOT
-<a href="https://t.me/InlineSaverXbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MT_InlineFilter_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Installation
 #### Deploy on Heroku

@@ -34,6 +34,9 @@ help_keyboard = [
     [
         InlineKeyboardButton(text = '🤖 About', callback_data = 'about'),
         InlineKeyboardButton(text = 'Close 🔒', callback_data = 'close')
+    ],
+    [
+        InlineKeyboardButton(text = '🖥️ How To Own 🖥️', url='https://youtu.be/gX6LHVTfilg')
     ]
 ]
 

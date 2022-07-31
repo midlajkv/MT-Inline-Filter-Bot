@@ -97,4 +97,6 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ##
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midlajkv/MT-Inline-Filter-Bot.git)
+
    **Star this Repo if you Liked it ⭐⭐⭐**

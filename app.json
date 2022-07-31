@@ -8,7 +8,7 @@
         "bot",
         "inline"
     ],
-    "repository": "https://github.com/MRK-YT/MT-Inline-Filter-Bot",
+    "repository": "https://github.com/midlajkv/MT-Inline-Filter-Bot.git",
     "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
     "env": {
         "TG_BOT_TOKEN": {
